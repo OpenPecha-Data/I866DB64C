@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD362
   title: ཀྲུང་གོའི་ལོ་རྒྱུས་རིག་གནས་གྲགས་ཅན་གྲོང་ཁྱེར། ལྷ་ས།
-  volume: ''
+  volume:
+    825083c28a374f6ca9bf1fdeb934687b:
+      image_group_id: I2PD17753
+      title: Volume 1 of krung go'i lo rgyus rig gnas grags can grong khyer/_lha sa/
+      volume_number: 1
+      total_pages: 562
   author: ''
+ebook_metadata:
+  title: ཀྲུང་གོའི་ལོ་རྒྱུས་རིག་གནས་གྲགས་ཅན་གྲོང་ཁྱེར། ལྷ་ས།
+  author: ''
+  sku: P007095
+  cover: cover.jpg
+  layers:
+  - pagination
